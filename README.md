@@ -15,7 +15,7 @@ A responsive personal portfolio built with **HTML, CSS and vanilla JavaScript**.
 - `index.html` — portfolio structure and content
 - `style.css` — responsive styling and animations
 - `my.png` — profile image
-- `resumenew.pdf` — resume
+- `newresume.pdf` — resume
 - `Certificates/` — certificates
 
 ## Run locally
